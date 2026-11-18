@@ -1,5 +1,7 @@
 # 🛰️ Obscura: Physics-Informed Industrial Emission Predictor
 
+**🔴 Live Interactive Dashboard:** [https://obscura-efud2zwezcafebqzbfxjtv.streamlit.app/](https://obscura-efud2zwezcafebqzbfxjtv.streamlit.app/)
+
 ## Overview
 This project was developed for the **OBSCURA Hackathon**. It is a PyTorch-based multi-modal deep learning pipeline designed to predict five industrial air pollutants (CH₄, NO₂, CO, AAI, and FIRMS) directly from multi-spectral Sentinel-2 satellite imagery and meteorological data.
 
