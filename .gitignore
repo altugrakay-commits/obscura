@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Data (Ignore heavy images, keep train.csv for Streamlit)
+data/images/
+data/image_test/
+*.zip
+
+# Security
+access_token.txt
+kaggle.json
+KGAT_*
+
+# Jupyter
+.ipynb_checkpoints/
